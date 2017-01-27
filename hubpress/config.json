@@ -4,7 +4,15 @@
     "repositoryName": "joaquinlpereyra.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Blogcito.",
+    "description": "Findings while I wiggle with Linux, Python, web security and stuff with keyboards."
+  },
+  "socialnetwork": {
+    "twitter": "littlenube",
+    "github": "joaquinlpereyra"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
