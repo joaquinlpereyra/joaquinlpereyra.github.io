@@ -1,0 +1,3 @@
+# FIX: harfbuzz.so not found
+
+https://gist.github.com/cryzed/e002e7057435f02cc7894b9e748c5671[Follow this]. You're welcome, future me. 
