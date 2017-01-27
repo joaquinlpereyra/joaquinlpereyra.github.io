@@ -6,8 +6,9 @@
   },
   "site": {
     "title": "Joaquín L. Pereyra",
-    "description": "<p>I talk way too often about Vim, Linux, Python,  vulnerabilities and weird languages. </p><p>I live in Argentina and work as a Web Security Engineer at Mercado Libre. </p>",
-    "cover": "/images/cover.jpg"
+    "description": "I talk way too often about Vim, Linux, Python,  vulnerabilities and weird languages. I live in Argentina and work as a Web Security Engineer at Mercado Libre. ",
+    "cover": "/images/cover.jpg",
+    "postsPerPage": "5"
   },
   "socialnetwork": {
     "twitter": "littlenube",
