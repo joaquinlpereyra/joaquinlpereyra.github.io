@@ -1,0 +1,4 @@
+# Hello, World!
+
+
+So, I'm getting into blogging. Again. Like it's 2010. This time I went with Github pages (which is free) + hubpress (which is hassle free). Plus, I can now blog with Markdown! *YEAH BOY*. 
