@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Easily New Post command for Github Pages+Jekyll 
+title: Easy New Post command for Github Pages+Jekyll 
 date: 2017-04-23 13:47:28
 categories: linux terminal
 ---
