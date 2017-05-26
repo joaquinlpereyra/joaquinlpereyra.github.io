@@ -1,6 +1,6 @@
 ---
 layout: post
-title: i3 with Xubuntu 14.04: The easy way
+title: i3 with Xubuntu 14 04
 date: 2017-05-25 22:13:45
 categories: linux ubuntu
 ---
