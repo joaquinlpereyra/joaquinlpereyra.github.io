@@ -11,7 +11,7 @@ I often get confused and have to run to the documentation to remind me of which 
 
 This should serve me as a quick reminder of what each one does. Hopefully it is useful for you too!
 
-You should note the types are anotated in a Haskell-like[1] manner. If this confuses you, just ignore
+You should note the types are anotated in a Haskell-like[^1] manner. If this confuses you, just ignore
 it and go straight to the example.
 
 ## Apply
@@ -96,3 +96,5 @@ print(has_plants)
 # Lais  False  False
 # May    True   True
 ```
+
+[^1]: Nothing good will come out of trying to examine too heavily Haskell-type notation with Python duck typing. Keep in mind this is just a reference.
